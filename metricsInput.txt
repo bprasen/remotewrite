@@ -1,0 +1,5 @@
+{"timestamp": "2020-12-11T11:22:22.871Z","jvm": {"gc": {"alloc": 3.336416e+06},	"thread": {"count": 31},"memory": {"non_heap": {	"committed": 7.70048e+07,"max": -1,"used": 7.4008712e+07},"heap": {"committed": 3.58088704e+08,"used": 1.36200696e+08,"max": 3.776970752e+09}}}}
+{"timestamp":"2020-12-11T11:22:52.870Z","jvm":{"memory":{"heap":{"pool":{"committed":1.42606336e+08,"max":2.832728064e+09,"used":4.0295008e+07}}}}}
+{"timestamp":"2020-12-11T11:22:52.870Z","jvm":{"memory":{"heap":{"pool":{"committed":1.87170816e+08,"max":1.354235904e+09,"used":7.2275944e+07}}}}}
+{"timestamp":"2020-12-11T11:22:52.870Z","jvm":{"gc":{"time":116,"count":11}}}
+{"timestamp":"2020-12-11T11:23:22.870Z","jvm":{"thread":{"count":30},"memory":{"heap":{"used":1.4151516e+08,"max":3.776970752e+09,"committed":3.58088704e+08},"non_heap":{"committed":7.70048e+07,"max":-1,"used":7.29532e+07}},"gc":{"alloc":4.020576e+06}}}
