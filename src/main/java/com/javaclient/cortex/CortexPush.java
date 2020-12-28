@@ -79,6 +79,6 @@ public class CortexPush {
         List<Types.TimeSeries> timeSeriesList = createTimeSeries(flattendMap, appName);
         System.out.println("################### timeSeriesList : "+timeSeriesList);
         //timeSeriesList.add(timeSeries);
-        //write(timeSeriesList, url);
+        write(timeSeriesList, url);
     }
 }
